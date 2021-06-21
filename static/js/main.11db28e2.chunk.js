@@ -1,0 +1,2 @@
+(this["webpackJsonpcarolina-gritti-portfolio"]=this["webpackJsonpcarolina-gritti-portfolio"]||[]).push([[0],{9:function(t,o,r){"use strict";r.r(o);r(1);var i=r(3),e=r.n(i),n=r(0);var c=function(){return Object(n.jsx)("div",{children:Object(n.jsx)("p",{children:"My Portfolio"})})};e.a.render(Object(n.jsx)(c,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.11db28e2.chunk.js.map
